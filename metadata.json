@@ -1,0 +1,7 @@
+{
+  "name": "Rosa - Odoo Sales Agent",
+  "description": "A real-time voice agent simulating a Chilean Odoo executive for lead qualification using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
